@@ -3,7 +3,7 @@ let r = 0;
 let b = 255;
 
 let api = 'http://api.openweathermap.org/data/2.5/weather?q=';
-let apiKey = 'API key';
+let apiKey = '<Your API Key>';
 let units = '&units=metric';
 
 function setup() {
